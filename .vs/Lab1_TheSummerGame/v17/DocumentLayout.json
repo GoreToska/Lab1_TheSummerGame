@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CPP Projects\\Algols\\Lab1_TheSummerGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD013A8-5039-44B6-8259-6FFA98D292FF}|Lab1_TheSummerGame.vcxproj|D:\\CPP Projects\\Algols\\Lab1_TheSummerGame\\Lab1_TheSummerGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7AD013A8-5039-44B6-8259-6FFA98D292FF}|Lab1_TheSummerGame.vcxproj|solutionrelative:Lab1_TheSummerGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab1_TheSummerGame.cpp",
+              "DocumentMoniker": "D:\\CPP Projects\\Algols\\Lab1_TheSummerGame\\Lab1_TheSummerGame.cpp",
+              "RelativeDocumentMoniker": "Lab1_TheSummerGame.cpp",
+              "ToolTip": "D:\\CPP Projects\\Algols\\Lab1_TheSummerGame\\Lab1_TheSummerGame.cpp",
+              "RelativeToolTip": "Lab1_TheSummerGame.cpp",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAAAKkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-14T12:59:51.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
